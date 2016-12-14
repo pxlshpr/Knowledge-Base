@@ -1,6 +1,6 @@
 # sed
 
-- Use `sed -E` so that you don't have to escape `()` and other similar characters.
+- Use `sed -E` in order to not have to escape `()` and other similar characters.
 - Anchors are useful with sed when using regexp, as they are greedy and try to match as much as possible.
 
 Useful links 🔗
