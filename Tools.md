@@ -2,4 +2,4 @@
 
 ### 🎨 Design
 
-- [App Icon and Screenshot Makers](http://www.appicon.build)
+- [App Icon and Screenshot Maker](http://www.appicon.build)
