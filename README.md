@@ -6,3 +6,4 @@ __noun *[mass noun]*__: 1 a store of information or data that is available to dr
 	1. [regexp](https://github.com/pxlshpr/Knowledge-Base/blob/master/regexp.md)
 	2. [grep](https://github.com/pxlshpr/Knowledge-Base/blob/master/grep.md)
 	3. [sed](https://github.com/pxlshpr/Knowledge-Base/blob/master/sed.md)
+2. [Tools 🛠](https://github.com/pxlshpr/Knowledge-Base/blob/master/Tools.md)
