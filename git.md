@@ -1,4 +1,4 @@
-`git pull` before or after `git commit`?
+`git pull` *before* or *after* `git commit`?
 
 > pull = fetch + merge.
 > 
@@ -10,8 +10,8 @@
 
 --
 
-How to make git forget about a file that's been added to `.gitignore`?
+How to make git **forget about a file** that's been added to `.gitignore`?
 
-> git rm --cached <file>
+> `git rm --cached <file>`
 
 *from [StackOverflow](http://stackoverflow.com/questions/1274057/how-to-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore)*
